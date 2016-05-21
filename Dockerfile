@@ -1,2 +1,2 @@
-FROM django:python2-onbuild
+FROM django
 VOLUME /usr/src/app/db
